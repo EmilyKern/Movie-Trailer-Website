@@ -4,7 +4,7 @@ The Movie Trailer Website project consists of server-side code to store a list o
 ### Help Notes  
 * To help me generate a website that displays these movies, **Udacity** have provided a **Python module called `fresh_tomatoes.py`** - this module has a function called `open_movies_page` that takes in one argument, which is a list of movies and creates an HTML file which visualizes a few of my favorite movies.  
 * I used [The Movie DB API](https://www.themoviedb.org) to get the movie posters displayed.  
-### Running the site  
+### Running the Movie Trailer  
 To run this project simply clone it to your local system and run the command:  
 ```  
 python movieInfo.py  
