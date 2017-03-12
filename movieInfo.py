@@ -5,8 +5,6 @@ import fresh_tomatoes
 Module that has the open_movie_page which lists the
 movies and then shows those movies in a website.
 """
-
-
 theSoundOfMusic = mediaInfo.Movie(
     "The Sound of Music",
     "Musical abt true love, friendship, bravery, sacrifice",
