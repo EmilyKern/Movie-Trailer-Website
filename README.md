@@ -6,6 +6,7 @@ To run this project simply do the following:
 * Clone it to your local system  
 * Open `movieInfo.py` in _IDLE_  
 * Run Module  
+
 #### Another way of running it is as follows:  
 * Clone it to your local system.
 * Open _Terminal_ (for MAC) or _Command Prompt_ (for Windows).
