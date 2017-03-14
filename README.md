@@ -11,6 +11,7 @@ Another way of running it is as follows:
 * Clone it to your local system.
 * Open _Terminal_ (for MAC) or _Command Prompt_ (for Windows).
 * Type the command **_python movieInfo.py_**  
+
 The site will be displayed in your browser after a static HTML file is created in the root directory. Also I am running version 3.6.0 of python.  
 
 ### Help Notes  
